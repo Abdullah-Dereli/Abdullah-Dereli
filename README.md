@@ -18,19 +18,21 @@
   </a>
 </p>
 
-<h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OracleSQL-333?style=flat&logo=oracle&logoColor=red"/>
   <img src="https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium&logoColor=43B02A"/>
   <img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=orange"/>
   <img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Macro_Recorder-333?style=flat&logo=autohotkey&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white"/>
 </p>
+
 
 
 <h2 align="center">📊 GitHub Stats</h2>
