@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <b>I am an AI Evaluation Specialist and E-commerce undergraduate with practical experience in automation, web development, and data-driven technologies.</b>
+</p>
 
-<!--
-**Abdullah-Dereli/Abdullah-Dereli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:abdullahdereli.info@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-dereli/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/Abdullah-Dereli" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔥 Languages & Frameworks & Tools & Abilities 🔥
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OracleSQL-333?style=flat&logo=oracle&logoColor=red" />
+  <img src="https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium&logoColor=43B02A" />
+  <img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=orange" />
+  <img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Dereli&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Dereli&show_icons=true&theme=tokyonight" />
+</p>
