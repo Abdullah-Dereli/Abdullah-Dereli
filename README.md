@@ -4,7 +4,8 @@
 
 ---
 
-## 📫 Contact Me
+## <h2 align="center">📫 Contact Me</h2>
+
 
 <p align="center">
   <a href="mailto:abdullahdereli.info@gmail.com">
