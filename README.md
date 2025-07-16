@@ -2,11 +2,9 @@
   <b>I am an AI Evaluation Specialist and E-commerce undergraduate with practical experience in automation, web development, and data-driven technologies. I've worked on real-world projects involving AI output validation, website development, and automation scripting. I thrive in collaborative environments, enjoy working closely with others, and bring a friendly, team-oriented spirit to every project. I’m passionate about continuously learning and contributing to impactful tech solutions.</b>
 </p>
 
----
+<!-- İstersen buraya yatay çizgi koyabilirsin, ama zorunlu değil -->
 
 <h2 align="center">Contact Me</h2>
-
-
 
 <p align="center">
   <a href="mailto:abdullahdereli.info@gmail.com">
@@ -20,9 +18,7 @@
   </a>
 </p>
 
----
-
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow" />
@@ -36,10 +32,10 @@
   <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white" />
 </p>
 
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Dereli&layout=compact&theme=tokyonight" width="350" height="130" style="vertical-align:middle;"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Dereli&show_icons=true&theme=tokyonight" width="500" height="130" style="vertical-align:middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Dereli&layout=compact&theme=tokyonight" width="400" height="160" style="vertical-align:middle;" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Dereli&show_icons=true&theme=tokyonight" width="400" height="160" style="vertical-align:middle;" />
 </p>
-
