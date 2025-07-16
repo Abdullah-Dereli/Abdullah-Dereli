@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow" />
