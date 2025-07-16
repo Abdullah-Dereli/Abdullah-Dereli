@@ -37,10 +37,8 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Dereli&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Dereli&layout=compact&theme=tokyonight" style="display:inline-block; margin-right:20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Dereli&show_icons=true&theme=tokyonight" style="display:inline-block;" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Dereli&show_icons=true&theme=tokyonight" />
-</p>
