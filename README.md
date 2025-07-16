@@ -2,7 +2,7 @@
   <b>I am an AI Evaluation Specialist and E-commerce undergraduate with practical experience in automation, web development, and data-driven technologies. I've worked on real-world projects involving AI output validation, website development, and automation scripting. I thrive in collaborative environments, enjoy working closely with others, and bring a friendly, team-oriented spirit to every project. I’m passionate about continuously learning and contributing to impactful tech solutions.</b>
 </p>
 
----
+
 
 ## <h2 align="center">Contact Me</h2>
 
