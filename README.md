@@ -21,15 +21,15 @@
 <h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow" width="60" height="60" alt="Python" />
-  <img src="https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=blue" width="60" height="60" alt="SQL" />
-  <img src="https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql&logoColor=white" width="60" height="60" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-OracleSQL-333?style=flat&logo=oracle&logoColor=red" width="60" height="60" alt="OracleSQL" />
-  <img src="https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium&logoColor=43B02A" width="60" height="60" alt="Selenium" />
-  <img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=orange" width="60" height="60" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=blue" width="60" height="60" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=yellow" width="60" height="60" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white" width="60" height="60" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OracleSQL-333?style=flat&logo=oracle&logoColor=red"/>
+  <img src="https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium&logoColor=43B02A"/>
+  <img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white"/>
 </p>
 
 
