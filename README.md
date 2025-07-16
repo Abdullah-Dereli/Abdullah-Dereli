@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">Languages & Frameworks & Tools & Abilities/h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow"/>
@@ -35,7 +35,6 @@
 
 
 
-<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Dereli&layout=compact&theme=tokyonight" width="400" height="160" style="vertical-align:middle;" />
