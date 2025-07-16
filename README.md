@@ -11,7 +11,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abdullah-dereli/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="[https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white](https://camo.githubusercontent.com/02dc79b831f8d33630d3498970c6d3058e1b6e58ff2cdc9613b3b1ec4a5f845c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d617232312e737667)" />
   </a>
   <a href="https://www.hackerrank.com/Abdullah-Dereli" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" />
